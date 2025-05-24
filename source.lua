@@ -77,7 +77,7 @@ local ConfigurationExtension = ".rfld"
 local settingsTable = {
 	General = {
 		-- if needs be in order just make getSetting(name)
-		NDLHubOpen = {Type = 'bind', Value = 'K', Name = 'NDLHub Keybind'},
+		NDLHubOpen = {Type = 'bind', Value = 'Insert', Name = 'NDLHub Keybind'},
 		-- buildwarnings
 		-- NDLHubprompts
 
